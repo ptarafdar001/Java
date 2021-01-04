@@ -16,7 +16,7 @@ class Hello
  //static public void main(String x[])
 
 {
-  System.out.print("\nHello PGEC\n");
+  System.out.print("\nHello World\n");
 }
 
 }
